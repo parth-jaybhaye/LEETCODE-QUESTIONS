@@ -1,4 +1,4 @@
-# Day 27 - Find the Number of Subsequences With Equal GCD
+# Day 1 - Find the Number of Subsequences With Equal GCD
 
 ## Problem
 
