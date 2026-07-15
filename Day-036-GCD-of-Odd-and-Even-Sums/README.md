@@ -1,4 +1,4 @@
-# Day 2 - GCD of Odd and Even Sums
+# Day 36- GCD of Odd and Even Sums
 
 ## Problem
 
