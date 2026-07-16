@@ -1,4 +1,4 @@
-# Day 38 - GCD Sum
+# Day 37 - GCD Sum
 
 ## Problem
 
